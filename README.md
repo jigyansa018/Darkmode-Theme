@@ -1,1 +1,1 @@
-# Darkmode-Theme
+🌞🌙 Theme Toggle Project  A simple and interactive Theme Toggle feature that allows users to switch between Light Mode (Sun 🌞) and Dark Mode (Moon 🌙). This project is built using HTML, CSS, and JavaScript, and demonstrates how to use CSS variables and JavaScript events for theme switching.
